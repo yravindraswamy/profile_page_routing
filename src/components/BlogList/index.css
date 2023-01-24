@@ -3,4 +3,6 @@
 .blogs-container {
   list-style-type: none;
   padding: 0px;
+  flex: 1;
+  width: 100%;
 }
